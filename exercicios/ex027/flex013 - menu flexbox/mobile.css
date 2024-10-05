@@ -22,3 +22,10 @@ span#burguer{
     width: 99vw;
 }
 
+nav{
+    display: block;
+}
+
+nav > a {
+    display: inline-block;
+}
